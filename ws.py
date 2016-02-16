@@ -1,5 +1,3 @@
-from flask import Flask
-
 import requests
 import untangle
 import numpy
